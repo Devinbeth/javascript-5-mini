@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+/app1/node_modules
+/app2/node_modules
+/app3/node_modules
+/app4/node_modules
 
 # testing
 /coverage
